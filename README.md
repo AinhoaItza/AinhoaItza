@@ -6,6 +6,7 @@
 ## Skills
 
 💻 HTML, CSS, JS
+
 ⚛ React
 
 
