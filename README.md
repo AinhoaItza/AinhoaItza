@@ -1,17 +1,23 @@
-![Studying Web Development ](https://s3.amazonaws.com/shecodesio-production/uploads/files/000/142/895/original/bannergithub.jpg?1725978500)
-# Ainhoa Itza
+![Banner](https://s3.amazonaws.com/shecodesio-production/uploads/files/000/142/895/original/bannergithub.jpg?1725978500)
 
-🌱 I'm Ainhoa from Spain and I’m currently studying Web Development at university, where I’m building a solid foundation in creating and managing web applications. In addition, I’m participating in a coding workshop called SheCodes to further enhance my skills and apply my knowledge practically. This workshop offers additional learning opportunities and allows me to work on diverse projects in my free time.
+# Ainhoa Itza Casero
+
+🌱 Final-year BSc Information Technology student at the University of Huddersfield, originally from Madrid. I build web applications with a focus on clean code, accessibility, and real-world usability. I am currently teaching myself Python through "Python by 150 Examples" and documenting my progress here on GitHub.
 
 ## Skills
 
-💻 HTML, CSS, JS
+💻 PHP, JavaScript, HTML5, CSS3, Tailwind CSS, Python (learning)
+⚙️ Laravel, WordPress
+🗄️ MySQL, SQL
+🔧 Git, GitHub, Figma, Postman
 
-⚛ React
+## What I am working on
 
+🎓 Final year dissertation on web accessibility in online travel booking platforms, including a WCAG 2.2 AAA-compliant hotel booking prototype
 
+🐍 Python self-study, exercises uploaded regularly
 
+## Connect
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ainhoaitzacasero/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](discordapp.com/users/noa30)  
-
-
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/ainhoaitzacasero/)
+[![Discord](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg)](discordapp.com/users/noa30)
