@@ -1,5 +1,6 @@
-![Banner](./GitHub_Profile.png)
-
+<div align="center">
+  <img src="./GitHub_Profile.png" alt="Banner" width="800"/>
+</div>
 # Ainhoa Itza Casero
 
 🌱 Final-year BSc Information Technology student at the University of Huddersfield, originally from Madrid. I build web applications with a focus on clean code, accessibility, and real-world usability. I am currently teaching myself Python through "Python by 150 Examples" and documenting my progress here on GitHub.
