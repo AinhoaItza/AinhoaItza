@@ -1,4 +1,4 @@
-![Banner](https://s3.amazonaws.com/shecodesio-production/uploads/files/000/142/895/original/bannergithub.jpg?1725978500)
+![Banner](./GitHub_Profile.png)
 
 # Ainhoa Itza Casero
 
