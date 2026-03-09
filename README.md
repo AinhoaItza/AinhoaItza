@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./GitHub_Profile.png" alt="Banner" width="800"/>
+  <img src="./GitHub_Profile.png" alt="Banner" width="650"/>
 </div>
 
 # Ainhoa Itza Casero
