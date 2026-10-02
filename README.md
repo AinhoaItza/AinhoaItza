@@ -4,7 +4,7 @@
 
 # Ainhoa Itza Casero
 
-🌱 Final-year BSc Information Technology student at the University of Huddersfield, originally from Madrid. I build web applications with a focus on clean code, accessibility, and real-world usability. I am currently teaching myself Python through "Python by 150 Examples" and documenting my progress here on GitHub.
+🌱 MSc Software Engineering with Cloud Computing student in London, originally from Madrid. Transitioning my background in Information Technology toward modern cloud architecture, systems automation, and DevOps pipelines. I focus on building scalable web infrastructure, writing clean automation tools, and am currently preparing for the AWS Certified Solutions Architect – Associate exam.
 
 ## Skills
 
@@ -14,6 +14,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://shields.io)
+![Bash](https://shields.io)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -22,11 +24,13 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
 ## What I am working on
 
-🎓 Final year dissertation on web accessibility in online travel booking platforms, including a WCAG 2.2 AAA-compliant hotel booking prototype
-
-🐍 Python self-study, exercises uploaded regularly
+What I am working on
+🎓 Postgraduate studies focusing on software design patterns, cloud computing platforms, and enterprise system architecture.
+🌤️ Developing cloud automation scripts using Python to interface with remote REST APIs (currently tracking weather and transport network infrastructure).
+☁️ Actively studying cloud infrastructure modules, networking fundamentals, and security protocols in preparation for industry certifications.
 
 ## Connect
 
