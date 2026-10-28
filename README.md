@@ -4,7 +4,7 @@
 
 # Ainhoa Itza Casero
 
-🌱 MSc Software Engineering with Cloud Computing student in London, originally from Madrid. Transitioning my background in Information Technology toward modern cloud architecture, systems automation, and DevOps pipelines. I focus on building scalable web infrastructure, writing clean automation tools, and am currently preparing for the AWS Certified Solutions Architect – Associate exam.
+🌱 MSc Software Engineering with Cloud Computing student at City St George's, University of London, originally from Madrid. My background is in full-stack web development and accessibility, and I'm now moving towards cloud and DevOps. Currently preparing for the AWS Certified Cloud Practitioner.
 
 ## Skills
 
@@ -27,12 +27,11 @@
 
 ## What I am working on
 
-What I am working on
 🎓 Postgraduate studies focusing on software design patterns, cloud computing platforms, and enterprise system architecture.
 🌤️ Developing cloud automation scripts using Python to interface with remote REST APIs (currently tracking weather and transport network infrastructure).
 ☁️ Actively studying cloud infrastructure modules, networking fundamentals, and security protocols in preparation for industry certifications.
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ainhoaitzacasero/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ainhoaitza/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/noa30)
