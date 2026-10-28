@@ -27,9 +27,9 @@
 
 ## What I am working on
 
-🎓 Postgraduate studies focusing on software design patterns, cloud computing platforms, and enterprise system architecture.
-🌤️ Developing cloud automation scripts using Python to interface with remote REST APIs (currently tracking weather and transport network infrastructure).
-☁️ Actively studying cloud infrastructure modules, networking fundamentals, and security protocols in preparation for industry certifications.
+🎓 Studying my MSc modules: cloud computing, software systems design, advanced databases, concurrency and network security.
+🐍 Strengthening my Python skills alongside my studies.
+☁️ Preparing for the AWS Certified Cloud Practitioner exam.
 
 ## Connect
 
