@@ -27,7 +27,7 @@
 
 ## What I am working on
 
-🎓 Studying my MSc modules: cloud computing, software systems design, advanced databases, concurrency and network security.
+🎓 Studying my MSc modules: cloud computing, software systems design, advanced databases, concurrency, network security, big data, machine learning systems engineering and MLOps, and research methods.
 🐍 Strengthening my Python skills alongside my studies.
 ☁️ Preparing for the AWS Certified Cloud Practitioner exam.
 
